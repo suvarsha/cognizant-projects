@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;collections.FileReader.java&apos; to &apos;FileReader1.java&apos;&#x0D;&#x0A;- Original project: &apos;collection&apos;&#x0D;&#x0A;- Original element: &apos;collections.FileReader.java&apos;&#x0D;&#x0A;- Renamed element: &apos;collections.FileReader1.java&apos;" description="Rename compilation unit &apos;FileReader.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;collections{FileReader.java" name="FileReader1.java" references="false" stamp="1578909605857" version="1.0"/>
+</session>

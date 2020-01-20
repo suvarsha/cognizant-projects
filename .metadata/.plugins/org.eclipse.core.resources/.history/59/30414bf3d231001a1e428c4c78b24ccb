@@ -1,0 +1,17 @@
+package pack;
+abstract class Abstract1{
+	abstract void add(int a,int b);
+		void show()
+		{
+			System.out.println("this is a non abstract method");
+		}
+	}
+
+public class Abstract {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

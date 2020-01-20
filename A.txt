@@ -1,0 +1,11 @@
+class A{
+static int var1=10;
+int var2=15;
+public static void main(String[] args){
+int a=1;
+A ins=new A();
+System.out.println(a);
+System.out.println(ins.ar2);
+System.out.println(var1);
+}
+}

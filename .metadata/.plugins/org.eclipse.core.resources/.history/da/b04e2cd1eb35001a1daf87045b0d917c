@@ -1,0 +1,13 @@
+package collections;
+
+import java.io.FileReader;
+
+public class FileReader1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		FileReader f=new FileReader();
+		f.read();
+	}
+
+}

@@ -1,0 +1,19 @@
+package collections;
+
+import java.io.File;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class FileReader1 {
+
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+		File f=new File("text7.txt");
+		f.createNewFile();
+		FileWriter  w=new  FileWriter(f);	
+		w.write("this is suvarsha");
+		w.close();
+	}
+
+}

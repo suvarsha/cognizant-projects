@@ -1,0 +1,14 @@
+package collections;
+
+import java.io.FileOutputStream;
+
+public class Fileoutput {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        try{
+        	FileOutputStream f=new FileOutputStream(C:\cognizant\this.txt);
+        }
+	}
+
+}

@@ -1,0 +1,19 @@
+package collections;
+
+import java.io.FileInputStream;
+
+public class FileInput {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+try{
+	FileInputStream f=new FileInputStream("C:\\cognizant:this.txt");
+	f.read();
+}
+catch(Exception e)
+{
+	System.out.println(e);
+}
+	}
+
+}
